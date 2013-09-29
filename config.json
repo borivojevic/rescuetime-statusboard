@@ -1,4 +1,4 @@
 {
-    "debug": true,
+    "debug": false,
     "rescuetime-api-key": "your-private-api-key-here"
 }

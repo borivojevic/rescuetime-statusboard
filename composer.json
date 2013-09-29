@@ -19,7 +19,7 @@
             "document-root": "web",
             "index-document": "index.php",
             "php-config": [
-                "display_errors=on",
+                "display_errors=off",
                 "date.timezone=Europe/Belgrade"
             ]
         }
