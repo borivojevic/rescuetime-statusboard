@@ -3,7 +3,7 @@ rescuetime-statusboard
 
 Array of panels for [Status Board][] iPad app from [Panic][] displaying your weekly [RescueTime][] productivity statistics.
 
-![Status Board Preview](http://f.cl.ly/items/1S0U1r0l0b2N110Q0j0z/statusboard-preview.jpg)
+Application is consuming actual [RescueTime API][] data through [rescuetime-api-php][] wrapper library.
 
 ### Panels ###
 
@@ -80,6 +80,8 @@ To add top activities panel select graph and provide following Data URL - {$YOUR
 [Status Board]: http://panic.com/statusboard/
 [Panic]: http://panic.com/
 [RescueTime]: https://www.rescuetime.com
+[RescueTime API]: https://www.rescuetime.com/analytic_api_setup/doc
+[rescuetime-api-php]: https://github.com/borivojevic/rescuetime-api-php
 [setup instructions]: https://www.rescuetime.com/anapi/setup
 [Heroku]: https://www.heroku.com/
 [Heroku Toolbelt]: https://toolbelt.heroku.com/
