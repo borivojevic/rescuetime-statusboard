@@ -29,7 +29,7 @@ Clone application locally:
 git clone git@github.com:borivojevic/rescuetime-statusboard.git
 ```
 
-Obtain RescueTime API key by following [setup instructions].
+You can obtain RescueTime API key on [API Key Management][] console page.
 
 Replace "rescuetime-api-key" in config.json with your private api-key.
 
@@ -82,6 +82,6 @@ To add top activities panel select graph and provide following Data URL - {$YOUR
 [RescueTime]: https://www.rescuetime.com
 [RescueTime API]: https://www.rescuetime.com/analytic_api_setup/doc
 [rescuetime-api-php]: https://github.com/borivojevic/rescuetime-api-php
-[setup instructions]: https://www.rescuetime.com/anapi/setup
+[API Key Management]: https://www.rescuetime.com/anapi/manage
 [Heroku]: https://www.heroku.com/
 [Heroku Toolbelt]: https://toolbelt.heroku.com/
